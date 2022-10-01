@@ -1,0 +1,23 @@
+div > .p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+br{
+    white-space: pre;
+    margin-top: 500px;
+}
+
+.mt-10{
+    margin-top: 3em;
+}
+
+p{
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+    color: rgb(0, 81, 231);
+    font-size: 50px;
+    white-space: pre;
+}

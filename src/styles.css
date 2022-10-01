@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+/* html, body{
+    background-color: #ebe7e7;
+} */
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    margin-bottom: 15px;
+    font-size: 40px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+}
+
+label{
+    font-family: cursive;
+}
+
+.form-floating{
+    text-align: start;
+
+}
+.errorLabel{
+    margin-left: 20px;
+}
+span > img{
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    border-radius: 50%;
+}
